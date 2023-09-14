@@ -30,6 +30,11 @@ This package should have the following structure.
 The package versions included in 20.04 LTS will work.
 ```
 sudo apt install autoconf libtool libudev-dev gcc g++ make cmake unzip libxml2-dev
+
+# archlinux
+sudo pacman -S autoconf libtool libudev-dev gcc g++ make cmake unzip libxml2-dev
+# yay -S libudev-dev
+yay -S libxml2
 ```
 
 ### Windows 10
